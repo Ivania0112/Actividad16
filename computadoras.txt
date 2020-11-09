@@ -1,0 +1,8 @@
+Pastrie
+Windows
+1000
+8
+Mikelson
+Linux
+2000
+16
